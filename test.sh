@@ -6,4 +6,4 @@ echo "Listing each parameter"
 for param in $* do
   echo "$param"
 done
-echo "Job Don"
+echo "Job Done"
